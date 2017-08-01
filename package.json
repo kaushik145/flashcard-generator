@@ -1,0 +1,13 @@
+{
+  "name": "cloze-constructors",
+  "version": "1.0.0",
+  "description": "This app is a basic flashcard application for learning and quizzing yourself.",
+  "main": "CLI.js",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+}
