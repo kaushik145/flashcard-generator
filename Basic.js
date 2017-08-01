@@ -69,7 +69,7 @@ function basicFunction() {
 
         var getInfo = function() {
 
-            if (count < parseInt(input3)) {
+            if (count < parseInt(userInput3)) {
                 inquirer.prompt([{
                     name: "front",
                     message: "What is the front of the flashcard?"

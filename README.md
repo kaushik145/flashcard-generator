@@ -3,7 +3,7 @@
 * List of all commands:
 1. basic - For basic flashcards Example: node CLI.js basic
 2. cloze - For Close flashcards Example: node CLI.js cloze
-3. random - To choose random cards once cards are added (from first-add followed by add) Example: node CLI.js basic random
+3. random - To choose random cards once cards are added (from add1 followed by add) Example: node CLI.js basic random
 4. read - To view front or back of the card (needs to go after the command front or back) Example: node CLI.js basic read front 1
 5. front - To view front part of the card 
 6. back - To view back part of the card
